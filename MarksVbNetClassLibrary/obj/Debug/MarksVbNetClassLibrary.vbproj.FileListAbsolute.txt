@@ -1,0 +1,10 @@
+C:\Users\Mark.F.Salamone\Documents\Technical-Repositories\Class-Libraries\MarksVbNetClassLibrary\MarksVbNetClassLibrary\bin\Debug\MarksVbNetClassLibrary.dll
+C:\Users\Mark.F.Salamone\Documents\Technical-Repositories\Class-Libraries\MarksVbNetClassLibrary\MarksVbNetClassLibrary\bin\Debug\MarksVbNetClassLibrary.pdb
+C:\Users\Mark.F.Salamone\Documents\Technical-Repositories\Class-Libraries\MarksVbNetClassLibrary\MarksVbNetClassLibrary\bin\Debug\MarksVbNetClassLibrary.xml
+C:\Users\Mark.F.Salamone\Documents\Technical-Repositories\Class-Libraries\MarksVbNetClassLibrary\MarksVbNetClassLibrary\obj\Debug\MarksVbNetClassLibrary.vbproj.ResolveComReference.cache
+C:\Users\Mark.F.Salamone\Documents\Technical-Repositories\Class-Libraries\MarksVbNetClassLibrary\MarksVbNetClassLibrary\obj\Debug\MarksVbNetClassLibrary.Resources.resources
+C:\Users\Mark.F.Salamone\Documents\Technical-Repositories\Class-Libraries\MarksVbNetClassLibrary\MarksVbNetClassLibrary\obj\Debug\MarksVbNetClassLibrary.vbproj.GenerateResource.cache
+C:\Users\Mark.F.Salamone\Documents\Technical-Repositories\Class-Libraries\MarksVbNetClassLibrary\MarksVbNetClassLibrary\obj\Debug\MarksVbNetClassLibrary.dll
+C:\Users\Mark.F.Salamone\Documents\Technical-Repositories\Class-Libraries\MarksVbNetClassLibrary\MarksVbNetClassLibrary\obj\Debug\MarksVbNetClassLibrary.xml
+C:\Users\Mark.F.Salamone\Documents\Technical-Repositories\Class-Libraries\MarksVbNetClassLibrary\MarksVbNetClassLibrary\obj\Debug\MarksVbNetClassLibrary.pdb
+C:\Users\Mark.F.Salamone\Documents\Technical-Repositories\Class-Libraries\MarksVbNetClassLibrary\MarksVbNetClassLibrary\obj\Debug\MarksVbNetClassLibrary.vbprojAssemblyReference.cache
